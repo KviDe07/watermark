@@ -1,0 +1,7 @@
+numpy>=1.24
+Pillow>=10.0
+PyWavelets>=1.4
+scikit-image>=0.21
+PyQt6>=6.5
+scipy>=1.11
+matplotlib>=3.7
